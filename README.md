@@ -6,7 +6,7 @@ This programm will convert your images to csv
 <br>To run it with your IDLE, install all requirements from requirements.txx
 <br>Main file is BeDigiGithub.py
 
-<br>To run it w/o any packeges and python, download BeDigiGithub.rar and unzip it,
+<br>To run it w/o any packeges and python, download Cpython folder
 <br>You can run the programm from folder "dist/BeDigiGithub/BeDigiGithub.exe"
 
 <h1>Preview</h1>
